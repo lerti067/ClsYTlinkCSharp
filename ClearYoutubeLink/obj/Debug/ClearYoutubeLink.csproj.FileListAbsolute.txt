@@ -1,0 +1,7 @@
+C:\Users\Sava\source\repos\ClearYoutubeLink\ClearYoutubeLink\obj\Debug\ClearYoutubeLink.csproj.AssemblyReference.cache
+C:\Users\Sava\source\repos\ClearYoutubeLink\ClearYoutubeLink\obj\Debug\ClearYoutubeLink.csproj.CoreCompileInputs.cache
+C:\Users\Sava\source\repos\ClearYoutubeLink\ClearYoutubeLink\bin\Debug\ClearYoutubeLink.exe.config
+C:\Users\Sava\source\repos\ClearYoutubeLink\ClearYoutubeLink\bin\Debug\ClearYoutubeLink.exe
+C:\Users\Sava\source\repos\ClearYoutubeLink\ClearYoutubeLink\bin\Debug\ClearYoutubeLink.pdb
+C:\Users\Sava\source\repos\ClearYoutubeLink\ClearYoutubeLink\obj\Debug\ClearYoutubeLink.exe
+C:\Users\Sava\source\repos\ClearYoutubeLink\ClearYoutubeLink\obj\Debug\ClearYoutubeLink.pdb
