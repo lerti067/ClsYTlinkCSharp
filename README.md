@@ -6,4 +6,4 @@ This C# code help you clear youtube link/Этот C# код поможет те�
 /[RU] Вы можете видеть этот же код только на Python https://github.com/lerti067/ClsYTlinkPY
 
 Video:
-https://github.com/lerti067/ClsYTlinkCSharp/assets/128909361/ff4f14ee-9efc-40e4-9899-7b89eed54565
+https://github.com/lerti067/ClsYTlinkCSharp/assets/128909361/ea03082a-b520-4027-952e-799b3f1e5202
